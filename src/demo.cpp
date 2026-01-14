@@ -123,6 +123,7 @@ int main(int argc, char **argv) {
         break;
       case ldlidar::LidarStatus::DATA_TIME_OUT:
         RCLCPP_ERROR(node->get_logger(), "get ldlidar data is time out, please check your lidar device.");
+        exit(EXIT_FAILURE);
         break;
       case ldlidar::LidarStatus::DATA_WAIT:
         break;

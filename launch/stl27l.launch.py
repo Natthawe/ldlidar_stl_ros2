@@ -38,7 +38,9 @@ def generate_launch_description():
         {'enable_angle_crop_func': False},
         {'angle_crop_min': 0.0},
         {'angle_crop_max': 0.0}
-      ]
+      ],
+      respawn=True,
+      respawn_delay=2.0,
   )
 
   # base_link to base_laser tf node
