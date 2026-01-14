@@ -4,8 +4,8 @@
 
 >此SDK仅适用于深圳乐动机器人有限公司销售的激光雷达产品，产品型号为:
 > - LDROBOT LiDAR LD06
-> - LDROBOT LiDAR LD19
-> - LDROBOT LiDAR STL-27L
+> - [LDROBOT LiDAR LD19](https://www.waveshare.com/wiki/DTOF_LIDAR_LD19?srsltid=AfmBOortraA_0Cr7UFiCnznP6euR_u3IiIZCp233hXF6-NEZ7mpMbzSS)
+> - [LDROBOT LiDAR STL-27L](https://www.waveshare.com/dtof-lidar-stl27l.htm?srsltid=AfmBOoqD0mr-xFe5DG_gVAWCj--wJqrdxkK3Ae1X6fVt6xJO6qyppZP1)
 
 ## 0. 获取雷达的ROS2功能包
 ```bash
@@ -162,8 +162,6 @@ rviz2
 > - LDROBOT LiDAR LD06
 > - [LDROBOT LiDAR LD19](https://www.waveshare.com/wiki/DTOF_LIDAR_LD19?srsltid=AfmBOortraA_0Cr7UFiCnznP6euR_u3IiIZCp233hXF6-NEZ7mpMbzSS)
 > - [LDROBOT LiDAR STL-27L](https://www.waveshare.com/dtof-lidar-stl27l.htm?srsltid=AfmBOoqD0mr-xFe5DG_gVAWCj--wJqrdxkK3Ae1X6fVt6xJO6qyppZP1)
-> - <a href="https://www.waveshare.com/dtof-lidar-stl27l.htm?srsltid=AfmBOoqD0mr-xFe5DG_gVAWCj--wJqrdxkK3Ae1X6fVt6xJO6qyppZP1" target="_blank" rel="noopener noreferrer">LDROBOT LiDAR STL-27L</a>
-
 
 ## step 0: get LiDAR ROS2 Package
 ```bash
